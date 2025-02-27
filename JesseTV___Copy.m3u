@@ -1,0 +1,295 @@
+#EXTM3U
+#EXTINF:0 CUID="326123" tvg-name="A&E" tvg-id="a&eperryad.us" tvg-logo="https://logo.iptveditor.com/ae2.png" group-title="🇺🇸 USA 📺",A&E
+http://23.237.104.106:8080/USA_AE/index.m3u8
+#EXTINF:0 CUID="324085" tvg-name="ABC Kansas City KMBC" tvg-id="kmbcdt.us" tvg-logo="https://logo.iptveditor.com/abc2.png" group-title="🇺🇸 USA 📺",ABC Kansas City KMBC
+https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
+#EXTINF:0 CUID="325956" tvg-name="ABC Miami WPLG" tvg-id="wplgdt.us" tvg-logo="https://logo.iptveditor.com/abckcrg.png" group-title="🇺🇸 USA 📺",ABC Miami WPLG
+http://107.222.150.242:9981/stream/channelid/1651874223?profile=pass
+#EXTINF:0 CUID="326119" tvg-name="ABC New York WABC" tvg-id="wabcdt.us" tvg-logo="https://logo.iptveditor.com/abc.png" group-title="🇺🇸 USA 📺",ABC New York WABC
+http://143.244.60.30/ABC_EAST/index.m3u8
+#EXTINF:0 CUID="324159" tvg-chno="null" tvg-name="Adult Swim (5PM-8AM)" tvg-id="cartoonnetworkadultswim.us" tvg-logo="https://logo.iptveditor.com/adultswim.png" group-title="🇺🇸 USA 📺",Adult Swim (5PM-8AM)
+https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:0 CUID="325855" tvg-name="AMC" tvg-id="amcperryad.us" tvg-logo="https://logo.iptveditor.com/amclat.png" group-title="🇺🇸 USA 📺",AMC
+http://170.254.18.106/AMC/index.m3u8
+#EXTINF:0 CUID="326242" tvg-name="Animal Planet" tvg-id="animalplanet.us" tvg-logo="https://logo.iptveditor.com/animalplanet.png" group-title="🇺🇸 USA 📺",Animal Planet
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+#EXTINF:0 CUID="324094" tvg-name="AntennaTV" tvg-id="antenna.us" tvg-logo="https://logo.iptveditor.com/antenna.png" group-title="🇺🇸 USA 📺",AntennaTV
+https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
+#EXTINF:0 CUID="325856" tvg-name="Bravo" tvg-id="bravo.us" tvg-logo="https://logo.iptveditor.com/bravo.png" group-title="🇺🇸 USA 📺",Bravo
+http://170.254.18.106/BRAVO/index.m3u8
+#EXTINF:0 CUID="326181" tvg-name="Cartoon Network / Adult Swim" tvg-id="cartoonnetworkadultswim.us" tvg-logo="https://logo.iptveditor.com/cartoonnetworkadultswimvod.png" group-title="🇺🇸 USA 📺",Cartoon Network / Adult Swim
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:0 CUID="326117" tvg-name="CBS Columbia KRCG" tvg-id="krcgdt.us" tvg-logo="https://logo.iptveditor.com/cbskrex.png" group-title="🇺🇸 USA 📺",CBS Columbia KRCG
+https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
+#EXTINF:0 CUID="324086" tvg-name="CBS Kansas City KCTV" tvg-id="kctv.us" tvg-logo="https://logo.iptveditor.com/cbslogowhite.png" group-title="🇺🇸 USA 📺",CBS Kansas City KCTV
+https://cvtv.cvalley.net/hls/KCTVCBS/KCTVCBS.m3u8
+#EXTINF:0 CUID="324090" tvg-name="Charge!" tvg-id="charge.us" tvg-logo="https://logo.iptveditor.com/charge.png" group-title="🇺🇸 USA 📺",Charge!
+https://cvtv.cvalley.net/hls/KRCGCHARGE/KRCGCHARGE.m3u8
+#EXTINF:0 CUID="325857" tvg-name="Comedy Central" tvg-id="comedycentral.us" tvg-logo="https://logo.iptveditor.com/comedycentral.png" group-title="🇺🇸 USA 📺",Comedy Central
+http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
+#EXTINF:0 CUID="324089" tvg-name="Comet" tvg-id="comet.us" tvg-logo="https://logo.iptveditor.com/comet.png" group-title="🇺🇸 USA 📺",Comet
+https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
+#EXTINF:0 CUID="325895" tvg-name="Cooking Channel" tvg-id="cookingchannel.us" tvg-logo="https://logo.iptveditor.com/cookingchannel.png" group-title="🇺🇸 USA 📺",Cooking Channel
+http://170.254.18.106/COOKING/index.m3u8
+#EXTINF:0 CUID="324101" tvg-chno="null" tvg-name="CW Columbia KOMU" tvg-id="komudt3.us" tvg-logo="https://logo.iptveditor.com/cw.png" group-title="🇺🇸 USA 📺",CW Columbia KOMU
+https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
+#EXTINF:0 CUID="324088" tvg-name="CW Kansas City KCWE" tvg-id="kcwe.us" tvg-logo="https://logo.iptveditor.com/cw29kcwe.png" group-title="🇺🇸 USA 📺",CW Kansas City KCWE
+https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
+#EXTINF:0 CUID="325896" tvg-name="CW New York PIX11" tvg-id="wpixdt.us" tvg-logo="https://logo.iptveditor.com/cw11wpix.png" group-title="🇺🇸 USA 📺",CW New York PIX11
+http://170.254.18.106/WPIX/index.m3u8
+#EXTINF:0 CUID="326127" tvg-name="Discovery Channel" tvg-id="discoveryperryad.us" tvg-logo="https://logo.iptveditor.com/discoverychannel.png" group-title="🇺🇸 USA 📺",Discovery Channel
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+#EXTINF:0 CUID="325894" tvg-name="Food Network" tvg-id="foodnetworkperryad.us" tvg-logo="https://logo.iptveditor.com/foodnetwork.png" group-title="🇺🇸 USA 📺",Food Network
+http://170.254.18.106/FOOD/index.m3u8
+#EXTINF:0 CUID="324095" tvg-name="FOX Kansas City WDAF" tvg-id="wdaf.us" tvg-logo="https://logo.iptveditor.com/foxrs.png" group-title="🇺🇸 USA 📺",FOX Kansas City WDAF
+https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
+#EXTINF:0 CUID="325955" tvg-name="FOX Miami WSVN" tvg-id="wsvndt.us" tvg-logo="https://logo.iptveditor.com/miamifox7wsvn.png" group-title="🇺🇸 USA 📺",FOX Miami WSVN
+http://107.222.150.242:9981/stream/channelid/413553400?profile=pass
+#EXTINF:0 CUID="325997" tvg-name="Fuse" tvg-id="fuse.us" tvg-logo="https://logo.iptveditor.com/fuse.png" group-title="🇺🇸 USA 📺",Fuse
+http://170.254.18.106/FUSE/index.m3u8
+#EXTINF:0 CUID="326295" tvg-name="FX" tvg-id="fx.us" tvg-logo="https://logo.iptveditor.com/fx.png" group-title="🇺🇸 USA 📺",FX
+http://fl2.moveonjoy.com/FX/index.m3u8
+#EXTINF:0 CUID="325693" tvg-name="Game Show Network" tvg-id="gameshownetwork.us" tvg-logo="https://logo.iptveditor.com/gameshownetwork.png" group-title="🇺🇸 USA 📺",Game Show Network
+https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
+#EXTINF:0 CUID="324093" tvg-name="Grit" tvg-id="grit.us" tvg-logo="https://logo.iptveditor.com/grit.png" group-title="🇺🇸 USA 📺",Grit
+https://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8
+#EXTINF:0 CUID="326297" tvg-name="HBO" tvg-id="hbo.us" tvg-logo="https://logo.iptveditor.com/hbo.png" group-title="🇺🇸 USA 📺",HBO
+http://fl2.moveonjoy.com/HBO/index.m3u8
+#EXTINF:0 CUID="326298" tvg-name="HBO2" tvg-id="hbo2.us" tvg-logo="https://logo.iptveditor.com/hbo2.png" group-title="🇺🇸 USA 📺",HBO2
+http://fl2.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:0 CUID="325858" tvg-name="HGTV" tvg-id="hgtvperryad.us" tvg-logo="https://logo.iptveditor.com/hgtv.png" group-title="🇺🇸 USA 📺",HGTV
+http://170.254.18.106/HGTV/index.m3u8
+#EXTINF:0 CUID="326132" tvg-name="History Channel" tvg-id="historyperryad.us" tvg-logo="https://logo.iptveditor.com/historychannel.png" group-title="🇺🇸 USA 📺",History Channel
+http://23.237.104.106:8080/USA_HISTORY/index.m3u8
+#EXTINF:0 CUID="324160" tvg-chno="null" tvg-name="HLN" tvg-id="hln.us" tvg-logo="https://logo.iptveditor.com/hln.png" group-title="🇺🇸 USA 📺",HLN
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+#EXTINF:0 CUID="325923" tvg-name="ION KPXE" tvg-id="kpxedt.us" tvg-logo="https://logo.iptveditor.com/iontelevision.png" group-title="🇺🇸 USA 📺",ION KPXE
+https://cvtv.cvalley.net/hls/KPXEION/KPXEION.m3u8
+#EXTINF:0 CUID="325940" tvg-name="ION Mystery" tvg-id="ionmystery.us" tvg-logo="https://logo.iptveditor.com/ionmystery.png" group-title="🇺🇸 USA 📺",ION Mystery
+https://285e01eeea2342ad8441d23b371a4b16.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_IONMystery/playlist.m3u8
+#EXTINF:0 CUID="325941" tvg-name="ION Plus" tvg-id="ionplus.us" tvg-logo="https://logo.iptveditor.com/ionplus.png" group-title="🇺🇸 USA 📺",ION Plus
+https://8512584faf6549b086b2a7e77aa0a6db.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_IonPlus/playlist.m3u8
+#EXTINF:0 CUID="324091" tvg-name="Laff" tvg-id="lafftv.us" tvg-logo="https://logo.iptveditor.com/waffdt4.png" group-title="🇺🇸 USA 📺",Laff
+https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
+#EXTINF:0 CUID="325034" tvg-name="Lonestar" tvg-id="lonestarclassics.us" tvg-logo="https://logo.iptveditor.com/lonestarvod.png" group-title="🇺🇸 USA 📺",Lonestar
+https://cinedigm-lonestar-lg.amagi.tv/playlist.m3u8
+#EXTINF:0 CUID="325897" tvg-name="Magnolia" tvg-id="magnolianetwork.us" tvg-logo="https://logo.iptveditor.com/magnolianetwork.png" group-title="🇺🇸 USA 📺",Magnolia
+http://170.254.18.106/MAGNOLIA/index.m3u8
+#EXTINF:0 CUID="324097" tvg-chno="null" tvg-name="MeTV" tvg-id="metv.us" tvg-logo="https://logo.iptveditor.com/metv.png" group-title="🇺🇸 USA 📺",MeTV
+https://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8
+#EXTINF:0 CUID="326178" tvg-name="Miami WSFL 39" tvg-id="wsfldt.us" tvg-logo="https://logo.iptveditor.com/wsfldt1.png" group-title="🇺🇸 USA 📺",Miami WSFL 39
+http://107.222.150.242:9981/stream/channelid/1731416469?profile=pass
+#EXTINF:0 CUID="326155" tvg-name="MotorTrend" tvg-id="motortrend.us" tvg-logo="https://logo.iptveditor.com/motortrend.png" group-title="🇺🇸 USA 📺",MotorTrend
+http://23.237.104.106:8080/USA_MOTOR_TREND/index.m3u8
+#EXTINF:0 CUID="325952" tvg-chno="null" tvg-name="MTV" tvg-id="mtv-musictelevision.us" tvg-logo="https://logo.iptveditor.com/mtv.png" group-title="🇺🇸 USA 📺",MTV
+http://170.254.18.106/MTV/index.m3u8
+#EXTINF:0 CUID="325875" tvg-name="My 9 TV New Jersey" tvg-id="wwor.us" tvg-logo="https://logo.iptveditor.com/wwor9.png" group-title="🇺🇸 USA 📺",My 9 TV New Jersey
+http://208.86.19.13:81/105.stream/index.m3u8
+#EXTINF:0 CUID="324107" tvg-chno="null" tvg-name="MyTV Kansas City KSMO" tvg-id="62ksmokansascity.us" tvg-logo="https://logo.iptveditor.com/mynetworktv.png" group-title="🇺🇸 USA 📺",MyTV Kansas City KSMO
+https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
+#EXTINF:0 CUID="324103" tvg-chno="null" tvg-name="MyTV KCWX 2 San Antonio" tvg-id="kcwx.us" tvg-logo="https://logo.iptveditor.com/mynetworktv.png" group-title="🇺🇸 USA 📺",MyTV KCWX 2 San Antonio
+http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
+#EXTINF:0 CUID="324106" tvg-chno="null" tvg-name="MyZOU TV Columbia" tvg-id="kmizdt3.us" tvg-logo="https://logo.iptveditor.com/kmizdt3.png" group-title="🇺🇸 USA 📺",MyZOU TV Columbia
+https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
+#EXTINF:0 CUID="326116" tvg-chno="null" tvg-name="NBC Columbia KOMU" tvg-id="komudt.us" tvg-logo="https://logo.iptveditor.com/nbc.png" group-title="🇺🇸 USA 📺",NBC Columbia KOMU
+https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
+#EXTINF:0 CUID="326174" tvg-name="NBC New York WNBC" tvg-id="wnbc.us" tvg-logo="https://logo.iptveditor.com/nbc.png" group-title="🇺🇸 USA 📺",NBC New York WNBC
+http://208.86.19.13:81/102.stream/index.m3u8
+#EXTINF:0 CUID="326001" tvg-name="Outdoor Channel" tvg-id="timewarneroutdoorchannel.us" tvg-logo="https://logo.iptveditor.com/outdoorchannel.png" group-title="🇺🇸 USA 📺",Outdoor Channel
+http://170.254.18.106/OUTDOOR/index.m3u8
+#EXTINF:0 CUID="325860" tvg-name="Paramount Network" tvg-id="paramountnetwork.us" tvg-logo="https://logo.iptveditor.com/paramountnetwork.png" group-title="🇺🇸 USA 📺",Paramount Network
+http://170.254.18.106/PARAMOUNT/index.m3u8
+#EXTINF:0 CUID="324116" tvg-chno="null" tvg-name="Story Television" tvg-id="storytelevision.us" tvg-logo="https://logo.iptveditor.com/storytelevision.png" group-title="🇺🇸 USA 📺",Story Television
+https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
+#EXTINF:0 CUID="324098" tvg-chno="null" tvg-name="TBD" tvg-id="tbdtv.us" tvg-logo="https://logo.iptveditor.com/tbd.png" group-title="🇺🇸 USA 📺",TBD
+https://fast-channels.sinclairstoryline.com/TBD/index_2.m3u8
+#EXTINF:0 CUID="325861" tvg-name="TBS" tvg-id="tbsperryad.us" tvg-logo="https://logo.iptveditor.com/tbs.png" group-title="🇺🇸 USA 📺",TBS
+http://170.254.18.106/TBS/index.m3u8
+#EXTINF:0 CUID="324156" tvg-chno="null" tvg-name="TBS (No ads)" tvg-id="tbsperryad.us" tvg-logo="https://logo.iptveditor.com/tbs.png" group-title="🇺🇸 USA 📺",TBS (No ads)
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:0 CUID="325862" tvg-name="TCM" tvg-id="turnerclassicmovies.us" tvg-logo="https://logo.iptveditor.com/tcm.png" group-title="🇺🇸 USA 📺",TCM
+http://170.254.18.106/TCM/index.m3u8
+#EXTINF:0 CUID="324158" tvg-chno="null" tvg-name="TCM (No ads)" tvg-id="turnerclassicmovies.us" tvg-logo="https://logo.iptveditor.com/tcm.png" group-title="🇺🇸 USA 📺",TCM (No ads)
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:0 CUID="326235" tvg-chno="null" tvg-name="The Nest" tvg-id="thenest.us" tvg-logo="https://logo.iptveditor.com/thenest.png" group-title="🇺🇸 USA 📺",The Nest
+https://fast-channels.sinclairstoryline.com/THENEST/index_2.m3u8
+#EXTINF:0 CUID="325958" tvg-chno="null" tvg-name="The Spot 38 KMCI" tvg-id="kmcidt.us" tvg-logo="https://logo.iptveditor.com/kmcidt1.png" group-title="🇺🇸 USA 📺",The Spot 38 KMCI
+https://cvtv.cvalley.net/hls/KMCIIND/KMCIIND.m3u8
+#EXTINF:0 CUID="325863" tvg-name="TNT" tvg-id="tntperryad.us" tvg-logo="https://logo.iptveditor.com/tnt.png" group-title="🇺🇸 USA 📺",TNT
+http://170.254.18.106/TNT/index.m3u8
+#EXTINF:0 CUID="324155" tvg-chno="null" tvg-name="TNT (No ads)" tvg-id="tntperryad.us" tvg-logo="https://logo.iptveditor.com/tnt.png" group-title="🇺🇸 USA 📺",TNT (No ads)
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:0 CUID="325867" tvg-name="TruTV" tvg-id="trutv.us" tvg-logo="https://logo.iptveditor.com/trutv.png" group-title="🇺🇸 USA 📺",TruTV
+http://170.254.18.106/TRUTV/index.m3u8
+#EXTINF:0 CUID="324157" tvg-chno="null" tvg-name="TruTV (No ads)" tvg-id="trutv.us" tvg-logo="https://logo.iptveditor.com/trutv.png" group-title="🇺🇸 USA 📺",TruTV (No ads)
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:0 CUID="325864" tvg-name="USA Network" tvg-id="usaperryad.us" tvg-logo="https://logo.iptveditor.com/usanetworkwest.png" group-title="🇺🇸 USA 📺",USA Network
+http://170.254.18.106/USA/index.m3u8
+#EXTINF:0 CUID="325865" tvg-name="VH1" tvg-id="vh1(caribbean).us" tvg-logo="https://logo.iptveditor.com/osnvh1.png" group-title="🇺🇸 USA 📺",VH1
+http://170.254.18.106/VH1/index.m3u8
+#EXTINF:0 CUID="325850" tvg-name="Vice TV" tvg-id="vice.us" tvg-logo="https://logo.iptveditor.com/vice.png" group-title="🇺🇸 USA 📺",Vice TV
+http://212.102.60.10:80/VICELAND/index.m3u8
+#EXTINF:0 CUID="325898" tvg-name="WE TV" tvg-id="wetv.us" tvg-logo="https://logo.iptveditor.com/wetv.png" group-title="🇺🇸 USA 📺",WE TV
+http://170.254.18.106/WE_TV/index.m3u8
+#EXTINF:0 CUID="326286" tvg-chno="2" tvg-name="24/7 Ottawa-Gatineau News" tvg-id="dummy-326286" tvg-logo="https://logo.iptveditor.com/cbcnews.png" group-title="⚜️Canada🇨🇦📺",24/7 Ottawa-Gatineau News
+https://amg00788-cbc-amg00788c9-lg-ca-5530.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0 CUID="326248" tvg-name="Assemblée Nationale du Québec" tvg-id="assembléenationale.ca" tvg-logo="https://logo.iptveditor.com/assemblee.png" group-title="⚜️Canada🇨🇦📺",Assemblée Nationale du Québec
+https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/playlist.m3u8
+#EXTINF:0 CUID="326292" tvg-name="Canal D" tvg-id="canald.ca" tvg-logo="https://logo.iptveditor.com/canald.png" group-title="⚜️Canada🇨🇦📺",Canal D
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/418564
+#EXTINF:0 CUID="326251" tvg-name="CBC Comedy" tvg-id="647f8d22a2fc3fadb4721685-65b28dd28f05102bce4a7910" tvg-logo="https://logo.iptveditor.com/cacbcvancouver.png" group-title="⚜️Canada🇨🇦📺",CBC Comedy
+https://amagi-streams.akamaized.net/hls/live/2110963/cbccomedy/master.m3u8
+#EXTINF:0 CUID="324398" tvg-chno="2" tvg-name="CBC News Network" tvg-id="cbcnewsnetwork.ca" tvg-logo="https://logo.iptveditor.com/cbcnewsnetwork.png" group-title="⚜️Canada🇨🇦📺",CBC News Network
+https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master1.m3u8
+#EXTINF:0 CUID="324396" tvg-chno="3" tvg-name="CBC Ottawa" tvg-id="cbcottawa.ca" tvg-logo="https://logo.iptveditor.com/cbcottawa.png" group-title="⚜️Canada🇨🇦📺",CBC Ottawa
+https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
+#EXTINF:0 CUID="326250" tvg-name="CBC West" tvg-id="cbcvancouver.ca" tvg-logo="https://logo.iptveditor.com/cbcvancouver.png" group-title="⚜️Canada🇨🇦📺",CBC West
+https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
+#EXTINF:0 CUID="326293" tvg-name="Cine Pop" tvg-id="cinepop.ca" tvg-logo="https://logo.iptveditor.com/cinepop.png" group-title="⚜️Canada🇨🇦📺",Cine Pop
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/418567
+#EXTINF:0 CUID="326253" tvg-name="City News" tvg-id="citynews24/7.ca" tvg-logo="https://logo.iptveditor.com/calgarycitynews.png" group-title="⚜️Canada🇨🇦📺",City News
+https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+#EXTINF:0 CUID="326252" tvg-name="City TV Montreal (not24/7)" tvg-id="citytvmontrealqc.ca" tvg-logo="https://logo.iptveditor.com/citytvmontreal.png" group-title="⚜️Canada🇨🇦📺",City TV Montreal (not24/7)
+https://dai.google.com/linear/hls/event/v6WfM9eaSjeioOsT6I2q3g/master.m3u8
+#EXTINF:0 CUID="326254" tvg-name="CPAC TV (FR/ENG)" tvg-id="cpac.ca" tvg-logo="https://logo.iptveditor.com/cpac.png" group-title="⚜️Canada🇨🇦📺",CPAC TV (FR/ENG)
+https://cpac-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+#EXTINF:0 CUID="326294" tvg-name="CTV Nature" tvg-id="ctvnature.ca" tvg-logo="https://github.com/pucknbass/logos-for-tv/blob/main/CTV_Nature_Channel_Logo.png?raw=true" group-title="⚜️Canada🇨🇦📺",CTV Nature
+http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
+#EXTINF:0 CUID="326291" tvg-name="CTV Wild" tvg-id="ctvwild.ca" tvg-logo="https://github.com/pucknbass/logos-for-tv/blob/main/CTV_Wild_Channel_Logo.png?raw=true" group-title="⚜️Canada🇨🇦📺",CTV Wild
+http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:0 CUID="326309" tvg-name="Evasion" tvg-id="évasion.ca" tvg-logo="https://logo.iptveditor.com/evasion.png" group-title="⚜️Canada🇨🇦📺",Evasion
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/418568
+#EXTINF:0 CUID="326299" tvg-name="Historia" tvg-id="historia.ca" tvg-logo="https://logo.iptveditor.com/hidtoria.png" group-title="⚜️Canada🇨🇦📺",Historia
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/418569
+#EXTINF:0 CUID="326310" tvg-name="ICI ARTV" tvg-id="iciartv.ca" tvg-logo="https://logo.iptveditor.com/iciartv.png" group-title="⚜️Canada🇨🇦📺",ICI ARTV
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/423280
+#EXTINF:0 CUID="326255" tvg-name="Ici Télé BC-Yukon" tvg-id="iciradiotélévancouver.ca" tvg-logo="https://logo.iptveditor.com/icitele.png" group-title="⚜️Canada🇨🇦📺",Ici Télé BC-Yukon
+https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_3000.m3u8
+#EXTINF:0 CUID="324387" tvg-chno="13" tvg-name="Ici Télé Gatineau" tvg-id="iciradiotéléottawa.ca" tvg-logo="https://logo.iptveditor.com/icitele.png" group-title="⚜️Canada🇨🇦📺",Ici Télé Gatineau
+https://rcavlive.akamaized.net/hls/live/664046/cancboft/master_3000.m3u8
+#EXTINF:0 CUID="324397" tvg-chno="14" tvg-name="Knowledge Network" tvg-id="knowledgenetwork.ca" tvg-logo="https://logo.iptveditor.com/knowledgenetwork.png" group-title="⚜️Canada🇨🇦📺",Knowledge Network
+https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
+#EXTINF:0 CUID="324386" tvg-chno="15" tvg-name="LCN" tvg-id="lcn.ca" tvg-logo="https://logo.iptveditor.com/lcn.png" group-title="⚜️Canada🇨🇦📺",LCN
+https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
+#EXTINF:0 CUID="326311" tvg-name="MAX" tvg-id="max.ca" tvg-logo="https://logo.iptveditor.com/max.png" group-title="⚜️Canada🇨🇦📺",MAX
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/423300
+#EXTINF:0 CUID="326312" tvg-name="Meteo Media" tvg-id="meteomedia.ca" tvg-logo="https://logo.iptveditor.com/meteomedia.png" group-title="⚜️Canada🇨🇦📺",Meteo Media
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/423301
+#EXTINF:0 CUID="326300" tvg-name="MUCH" tvg-id="muchmusic.ca" tvg-logo="https://logo.iptveditor.com/much.png" group-title="⚜️Canada🇨🇦📺",MUCH
+http://fl1.moveonjoy.com/MUCH/index.m3u8
+#EXTINF:0 CUID="326301" tvg-name="Noovo" tvg-id="cfjp.us" tvg-logo="https://logo.iptveditor.com/noovo.png" group-title="⚜️Canada🇨🇦📺",Noovo
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/418578
+#EXTINF:0 CUID="326302" tvg-name="Prise 2" tvg-id="prise2.ca" tvg-logo="https://logo.iptveditor.com/prise2.png" group-title="⚜️Canada🇨🇦📺",Prise 2
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/423312
+#EXTINF:0 CUID="324383" tvg-chno="17" tvg-name="RDI" tvg-id="icirdi.ca" tvg-logo="https://logo.iptveditor.com/icirdi.png" group-title="⚜️Canada🇨🇦📺",RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:0 CUID="326303" tvg-name="RDS" tvg-id="rds.ca" tvg-logo="https://logo.iptveditor.com/rds.png" group-title="⚜️Canada🇨🇦📺",RDS
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/418579
+#EXTINF:0 CUID="326304" tvg-name="RDS 2" tvg-id="rds2.ca" tvg-logo="https://logo.iptveditor.com/rds2.png" group-title="⚜️Canada🇨🇦📺",RDS 2
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/418580
+#EXTINF:0 CUID="326314" tvg-name="SUPER ÉCRAN 1" tvg-id="superécran.ca" tvg-logo="https://logo.iptveditor.com/superecran1.png" group-title="⚜️Canada🇨🇦📺",SUPER ÉCRAN 1
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/418548
+#EXTINF:0 CUID="326316" tvg-name="SUPER ÉCRAN 3" tvg-id="superécran3.ca" tvg-logo="https://logo.iptveditor.com/superecran3.png" group-title="⚜️Canada🇨🇦📺",SUPER ÉCRAN 3
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/418516
+#EXTINF:0 CUID="326305" tvg-name="Teletoon" tvg-id="télétoonfrench.ca" tvg-logo="https://logo.iptveditor.com/cateletoonr.png" group-title="⚜️Canada🇨🇦📺",Teletoon
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/423317
+#EXTINF:0 CUID="324381" tvg-chno="20" tvg-name="TVA" tvg-id="tvamontreal.ca" tvg-logo="https://logo.iptveditor.com/cftmdt.png" group-title="⚜️Canada🇨🇦📺",TVA
+https://tvalive-nondai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
+#EXTINF:0 CUID="326306" tvg-name="TVA Sports" tvg-id="tvasports.ca" tvg-logo="https://logo.iptveditor.com/tvasports.png" group-title="⚜️Canada🇨🇦📺",TVA Sports
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/418585
+#EXTINF:0 CUID="326307" tvg-name="TVA Sports 2" tvg-id="tvasports2.ca" tvg-logo="https://logo.iptveditor.com/tvasports2.png" group-title="⚜️Canada🇨🇦📺",TVA Sports 2
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/418586
+#EXTINF:0 CUID="326285" tvg-chno="20" tvg-name="TéléMag" tvg-id="telemagquebec.ca" tvg-logo="https://github.com/pucknbass/logos-for-tv/blob/main/CHMG_TV.svg.png?raw=true" group-title="⚜️Canada🇨🇦📺",TéléMag
+https://web-cdn.sogetel.net:8443/CLTMAG/CLTMAG.m3u8
+#EXTINF:0 CUID="326308" tvg-name="Z Tele" tvg-id="z.ca" tvg-logo="https://logo.iptveditor.com/ztele.png" group-title="⚜️Canada🇨🇦📺",Z Tele
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/418590
+#EXTINF:0 CUID="325098" tvg-name="American Pickers" tvg-id="dummy-325098" tvg-logo="https://logo.iptveditor.com/247americanpickers.png" group-title="🔁 24/7 📺",American Pickers
+https://jmp2.uk/sam-USBD3500041ZF.m3u8
+#EXTINF:0 CUID="324951" tvg-chno="null" tvg-name="Ax Men" tvg-id="dummy-324951" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/04/AxMen-81578.png" group-title="🔁 24/7 📺",Ax Men
+https://335e33e2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9BeE1lbl9ITFM/playlist.m3u8
+#EXTINF:0 CUID="325101" tvg-name="Cold Case Files" tvg-id="dummy-325101" tvg-logo="https://logo.iptveditor.com/coldcasefilesvod.png" group-title="🔁 24/7 📺",Cold Case Files
+https://jmp2.uk/sam-USBC390002256.m3u8
+#EXTINF:0 CUID="323625" tvg-chno="null" tvg-name="Corner Gas CTV" tvg-id="647f8d22a2fc3fadb4721685-6685bff32deb7f424133b089" tvg-logo="https://github.com/pucknbass/logos-for-tv/blob/main/cornergas.png?raw=true" group-title="🔁 24/7 📺",Corner Gas CTV
+https://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-cornergaschannel-lgca/playlist.m3u8
+#EXTINF:0 CUID="325102" tvg-name="Forensic Files" tvg-id="dummy-325102" tvg-logo="https://logo.iptveditor.com/forensicfiles.png" group-title="🔁 24/7 📺",Forensic Files
+https://jmp2.uk/sam-USBB3200017MY.m3u8
+#EXTINF:0 CUID="325103" tvg-name="Forged In Fire" tvg-id="dummy-325103" tvg-logo="https://github.com/pucknbass/logos-for-tv/blob/main/forgedinfireVOD.png?raw=true" group-title="🔁 24/7 📺",Forged In Fire
+https://jmp2.uk/sam-USBD2700014QW.m3u8
+#EXTINF:0 CUID="325125" tvg-name="Happy Days" tvg-id="dummy-325125" tvg-logo="https://logo.iptveditor.com/247happydays.png" group-title="🔁 24/7 📺",Happy Days
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7794162a4559000781fc12/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:0 CUID="325904" tvg-name="Hot Ones" tvg-id="647f8d22a2fc3fadb4721685-6582a1316b91be4547aa153c" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMVXxA5B2Zr4UWe-PnoyNwGmczkN5Kj0Bmhw&s" group-title="🔁 24/7 📺",Hot Ones
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6582a1316b91be4547aa153c.m3u8
+#EXTINF:0 CUID="325109" tvg-name="Midsomer Murders" tvg-id="dummy-325109" tvg-logo="https://logo.iptveditor.com/midsomermurdersvod.png" group-title="🔁 24/7 📺",Midsomer Murders
+https://all3media-midsomer-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:0 CUID="325111" tvg-name="Mountain Men" tvg-id="dummy-325111" tvg-logo="https://github.com/pucknbass/logos-for-tv/blob/main/MountainMenVOD.png?raw=true" group-title="🔁 24/7 📺",Mountain Men
+https://jmp2.uk/sam-USBD17000051M.m3u8
+#EXTINF:0 CUID="325114" tvg-name="Pawn Stars" tvg-id="dummy-325114" tvg-logo="https://github.com/pucknbass/logos-for-tv/blob/main/pawnstars.png?raw=true" group-title="🔁 24/7 📺",Pawn Stars
+https://jmp2.uk/sam-US300003S3.m3u8
+#EXTINF:0 CUID="325810" tvg-name="Saturday Night Live" tvg-id="dummy-325810" tvg-logo="https://github.com/pucknbass/logos-for-tv/blob/main/Saturday_Night_Live_logo.jpg?raw=true" group-title="🔁 24/7 📺",Saturday Night Live
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814616/hls/master.m3u8?ads.xumo_channelId=88814616&ads.xumo_streamId=88814616
+#EXTINF:0 CUID="325809" tvg-name="Saved by the Bell" tvg-id="dummy-325809" tvg-logo="https://logo.iptveditor.com/247savedbythebell.png" group-title="🔁 24/7 📺",Saved by the Bell
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814614/hls/master.m3u8?ads.xumo_channelId=88814614&ads.xumo_streamId=88814614
+#EXTINF:0 CUID="317835" tvg-name="Seinfeld" tvg-id="dummy-317835" tvg-logo="https://logo.iptveditor.com/247seinfeld.png" group-title="🔁 24/7 📺",Seinfeld
+https://demo.streamplanet.tv/hls/seinfeld/src/index.m3u8
+#EXTINF:0 CUID="325124" tvg-name="Star Trek" tvg-id="dummy-325124" tvg-logo="https://logo.iptveditor.com/startrek.png" group-title="🔁 24/7 📺",Star Trek
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:0 CUID="325048" tvg-name="The Bob Ross Channel" tvg-id="647f8d22a2fc3fadb4721685-5efe1de6e0b3f5003f5d9f88" tvg-logo="https://github.com/pucknbass/logos-for-tv/blob/main/bob-ross.png?raw=true" group-title="🔁 24/7 📺",The Bob Ross Channel
+https://cinedigm-bobross-lg.amagi.tv/playlist.m3u8
+#EXTINF:0 CUID="325123" tvg-name="Three's Company" tvg-id="dummy-325123" tvg-logo="https://logo.iptveditor.com/247threescompany.png" group-title="🔁 24/7 📺",Three's Company
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ef3977e5d773400077de284/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:0 CUID="325121" tvg-name="Tosh.O" tvg-id="dummy-325121" tvg-logo="https://logo.iptveditor.com/tosh0vod.png" group-title="🔁 24/7 📺",Tosh.O
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dae084727c8af0009fe40a4/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:0 CUID="325039" tvg-name="Cinevault Classics" tvg-id="cinevaultclassics.us" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/CINEVLT/large_white.png" group-title="🎬 Movie Channels🎬",Cinevault Classics
+https://live-manifest.production-public.tubi.io/live/54eadde0-3ae7-4c31-b1e5-990948a3fed7/playlist.m3u8
+#EXTINF:0 CUID="325040" tvg-name="Cinevault Westerns" tvg-id="cinevaultwesterns.us" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/CINEVLT/large_white.png" group-title="🎬 Movie Channels🎬",Cinevault Westerns
+https://live-manifest.production-public.tubi.io/live/4062ff6b-c7c8-41c0-a72f-717485854324/playlist.m3u8
+#EXTINF:0 CUID="324777" tvg-name="Crave 1" tvg-id="crave1.ca" tvg-logo="https://logo.iptveditor.com/crave1.png" group-title="🎬 Movie Channels🎬",Crave 1
+http://195.181.163.243/CRAVE_1/index.m3u8
+#EXTINF:0 CUID="324778" tvg-name="Crave 2" tvg-id="crave2.ca" tvg-logo="https://logo.iptveditor.com/crave2.png" group-title="🎬 Movie Channels🎬",Crave 2
+http://84.17.40.25/CRAVE_2/index.m3u8
+#EXTINF:0 CUID="324779" tvg-name="Crave 3" tvg-id="crave3.ca" tvg-logo="https://logo.iptveditor.com/crave3.png" group-title="🎬 Movie Channels🎬",Crave 3
+http://195.181.163.243/CRAVE_3/index.m3u8
+#EXTINF:0 CUID="324780" tvg-name="Crave 4" tvg-id="crave4.ca" tvg-logo="https://logo.iptveditor.com/crave4.png" group-title="🎬 Movie Channels🎬",Crave 4
+http://84.17.40.25/CRAVE_4/index.m3u8
+#EXTINF:0 CUID="325866" tvg-name="Crave-4" tvg-id="crave4.ca" tvg-logo="https://logo.iptveditor.com/crave.png" group-title="🎬 Movie Channels🎬",Crave-4
+http://170.254.18.106/CRAVE/index.m3u8
+#EXTINF:0 CUID="326296" tvg-name="FXM" tvg-id="fxm.us" tvg-logo="https://logo.iptveditor.com/fxm.png" group-title="🎬 Movie Channels🎬",FXM
+http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:0 CUID="325841" tvg-name="GrjnGo Western Movies" tvg-id="647f8d22a2fc3fadb4721685-63489a771159f6a5ce819b7b" tvg-logo="https://logo.iptveditor.com/grjngowesternmovies.png" group-title="🎬 Movie Channels🎬",GrjnGo Western Movies
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-63489a771159f6a5ce819b7b.m3u8
+#EXTINF:0 CUID="325326" tvg-name="Moviesphere" tvg-id="647f8d22a2fc3fadb4721685-6663510e7ce166787145c6a9" tvg-logo="https://logo.iptveditor.com/moviesphere.png" group-title="🎬 Movie Channels🎬",Moviesphere
+https://jmp2.uk/plu-64a3d96f060e830008af6745.m3u8
+#EXTINF:0 CUID="326243" tvg-name="Paramount + Showtime" tvg-id="paramount+withshowtime.us" tvg-logo="https://logo.iptveditor.com/paramountpluswithshowtime.png" group-title="🎬 Movie Channels🎬",Paramount + Showtime
+http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+#EXTINF:0 CUID="325936" tvg-name="Sony Movie Channel" tvg-id="sonymoviechannel.us" tvg-logo="https://logo.iptveditor.com/sonymovieslight.png" group-title="🎬 Movie Channels🎬",Sony Movie Channel
+https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
+#EXTINF:0 CUID="324380" tvg-chno="null" tvg-name="TCM (No ads)" tvg-id="turnerclassicmovies.us" tvg-logo="https://logo.iptveditor.com/tcm.png" group-title="🎬 Movie Channels🎬",TCM (No ads)
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:0 CUID="325906" tvg-name="Wild West TV" tvg-id="647f8d22a2fc3fadb4721685-660df9e0e7dcb14697880bfb" tvg-logo="https://logo.iptveditor.com/westerntv.png" group-title="🎬 Movie Channels🎬",Wild West TV
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-660df9e0e7dcb14697880bfb.m3u8
+#EXTINF:0 CUID="326156" tvg-name="ESPN" tvg-id="espn.us" tvg-logo="https://logo.iptveditor.com/espn.png" group-title="🏒⚾ Sports 📺",ESPN
+http://23.237.104.106:8080/USA_ESPN1/index.m3u8
+#EXTINF:0 CUID="326173" tvg-name="ESPN 2" tvg-id="espn2.us" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="🏒⚾ Sports 📺",ESPN 2
+http://23.237.104.106:8080/USA_ESPN2/index.m3u8
+#EXTINF:0 CUID="326245" tvg-name="MSG" tvg-id="msg.us" tvg-logo="https://logo.iptveditor.com/msg.png" group-title="🏒⚾ Sports 📺",MSG
+http://23.237.104.106:8080/USA_MSG/index.m3u8
+#EXTINF:0 CUID="325078" tvg-name="NHL Network" tvg-id="nhlnetwork.us" tvg-logo="https://logo.iptveditor.com/nhlnetwork.png" group-title="🏒⚾ Sports 📺",NHL Network
+http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:0 CUID="325780" tvg-chno="null" tvg-name="SportsNet East" tvg-id="sportsneteast.ca" tvg-logo="https://logo.iptveditor.com/sportsnet.png" group-title="🏒⚾ Sports 📺",SportsNet East
+http://143.244.60.97/SPORTSNET/index.m3u8
+#EXTINF:0 CUID="326319" tvg-name="TNA Wrestling" tvg-id="647f8d22a2fc3fadb4721685-606605549dbfca002d2ae873" tvg-logo="https://github.com/pucknbass/logos-for-tv/blob/main/TNA_Impact!_2024.png?raw=true" group-title="🏒⚾ Sports 📺",TNA Wrestling
+https://jmp2.uk/sam-CABA3700006IC.m3u8
+#EXTINF:0 CUID="325154" tvg-chno="null" tvg-name="TSN 1" tvg-id="tsn1.ca" tvg-logo="https://logo.iptveditor.com/tsn1.png" group-title="🏒⚾ Sports 📺",TSN 1
+http://212.102.60.231:80/TSN_1/index.m3u8
+#EXTINF:0 CUID="325155" tvg-chno="null" tvg-name="TSN 2" tvg-id="tsn2.ca" tvg-logo="https://logo.iptveditor.com/tsn2.png" group-title="🏒⚾ Sports 📺",TSN 2
+http://212.102.60.231:80/TSN_2/index.m3u8
+#EXTINF:0 CUID="325156" tvg-chno="null" tvg-name="TSN 3" tvg-id="tsn3.ca" tvg-logo="https://logo.iptveditor.com/tsn3.png" group-title="🏒⚾ Sports 📺",TSN 3
+http://212.102.60.231:80/TSN_3/index.m3u8
+#EXTINF:0 CUID="325157" tvg-chno="null" tvg-name="TSN 4" tvg-id="tsn4.ca" tvg-logo="https://logo.iptveditor.com/tsn4.png" group-title="🏒⚾ Sports 📺",TSN 4
+http://212.102.60.231:80/TSN_4/index.m3u8
+#EXTINF:0 CUID="325158" tvg-chno="null" tvg-name="TSN 5" tvg-id="tsn5.ca" tvg-logo="https://logo.iptveditor.com/tsn5.png" group-title="🏒⚾ Sports 📺",TSN 5
+http://212.102.60.231:80/TSN_5/index.m3u8
+#EXTINF:0 CUID="323207" tvg-chno="null" tvg-name="TSN 8 The OCHO" tvg-id="647f8d22a2fc3fadb4721685-6685bf522deb7f424133b087" tvg-logo="https://logo.iptveditor.com/tsn.png" group-title="🏒⚾ Sports 📺",TSN 8 The OCHO
+https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
+#EXTINF:0 CUID="326318" tvg-name="WWE SuperStar Central" tvg-id="dummy-326318" tvg-logo="https://logo.iptveditor.com/cthwwe.png" group-title="🏒⚾ Sports 📺",WWE SuperStar Central
+https://jmp2.uk/sam-US700005ID.m3u8
