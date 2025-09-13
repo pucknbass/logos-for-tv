@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1, Always sunny in Philly
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+https://stream-cdn-iad3.vaughnsoft.net/play/live_asip.flv
+#EXTINF:-1, Big Bang Theory
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+https://stream-cdn-iad3.vaughnsoft.net/play/live_tbbtz.flv
+#EXTINF:-1, American Dad / Family Guy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+https://stream-cdn-iad3.vaughnsoft.net/play/live_crab.flv
+#EXTINF:-1, Rick & Morty
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+https://stream-cdn-iad3.vaughnsoft.net/play/live_rickandmortimer.flv
+#EXTINF:-1, Retro Wrestling
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+https://stream-cdn-iad3.vaughnsoft.net/play/live_jetmalman.flv
+#EXTINF:-1, Trailer Park Boys Series
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+https://stream-cdn-iad3.vaughnsoft.net/play/live_mdufres1.flv
+#EXTINF:-1, Gold Rush
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+https://stream-cdn-iad3.vaughnsoft.net/play/live_goldrrrush.flv
+#EXTINF:-1, The Office
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+https://stream-cdn-iad3.vaughnsoft.net/play/live_0ff1c3.flv
+#EXTINF:-1, Brooklyn Nine Nine
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+https://stream-cdn-iad3.vaughnsoft.net/play/live_brkln99.flv
+#EXTINF:-1, Community 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+https://stream-cdn-iad3.vaughnsoft.net/play/live_c0mmun1ty.flv
+#EXTINF:-1, Park & Recs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+https://stream-cdn-iad3.vaughnsoft.net/play/live_parknrcrtn.flv
+#EXTINF:-1, Law & Order SVU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+https://stream-cdn-iad3.vaughnsoft.net/play/live_svu.flv
